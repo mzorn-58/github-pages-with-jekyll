@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to mz blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Why Wycombe is the best
